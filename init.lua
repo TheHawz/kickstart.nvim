@@ -159,6 +159,7 @@ vim.opt.cursorline = true
 vim.opt.scrolloff = 10
 
 -- Hawz config
+vim.opt.colorcolumn = '79,119'
 
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
