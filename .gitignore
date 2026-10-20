@@ -9,3 +9,5 @@ spell/
 # see https://lazy.folke.io/usage/lockfile
 
 .DS_Store
+
+*.log
